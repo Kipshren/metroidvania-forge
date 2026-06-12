@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dltehturacn1t"
-path="res://.godot/imported/favicon_pixian_ai.png-8c880294b85481d4c490e04ed76d28a7.ctex"
+uid="uid://bwtkrjxyg4ex0"
+path="res://.godot/imported/asd.png-dd8268e7556c6a8a707d861330086192.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://favicon_pixian_ai.png"
-dest_files=["res://.godot/imported/favicon_pixian_ai.png-8c880294b85481d4c490e04ed76d28a7.ctex"]
+source_file="res://asd.png"
+dest_files=["res://.godot/imported/asd.png-dd8268e7556c6a8a707d861330086192.ctex"]
 
 [params]
 

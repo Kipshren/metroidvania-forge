@@ -1,13 +1,15 @@
 [gd_scene format=3 uid="uid://8lidg4hqe43w"]
 
-[ext_resource type="Texture2D" uid="uid://dltehturacn1t" path="res://favicon_pixian_ai.png" id="1_rupst"]
 [ext_resource type="Texture2D" uid="uid://dd860n3iw55m1" path="res://icon.svg" id="2_wt17y"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_rupst"]
+load_path = "res://.godot/imported/favicon_pixian_ai.png-8c880294b85481d4c490e04ed76d28a7.ctex"
 
 [node name="Node2D" type="Node2D" unique_id=2058439409]
 
 [node name="FaviconPixianAi" type="Sprite2D" parent="." unique_id=232428176]
-position = Vector2(319, -44)
-texture = ExtResource("1_rupst")
+position = Vector2(281, -33)
+texture = SubResource("CompressedTexture2D_rupst")
 
 [node name="Icon" type="Sprite2D" parent="." unique_id=888527538]
 position = Vector2(237, 141)
